@@ -1,0 +1,27 @@
+.bi-check-square{
+    padding-left:10px ;
+}
+.bi-arrow-down-up{
+    border: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 30px;
+    max-width: 50% ; 
+}
+#exchange-rate{
+    display:flex;
+    justify-content: center;
+}
+.btn-success{
+    display:flex;
+    justify-content: center;
+}
+.container{
+    margin-top: 10px;
+    max-width: fit-content;
+    border: 2px solid #42ba96;
+    border-radius: 10px;
+}
+#from-currency-input{
+    border:2px solid #42ba96;  
+}
