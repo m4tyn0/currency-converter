@@ -1,3 +1,6 @@
+
+TODO: Create a docker image so its easier to explore
+
 # Currency Converter
 
 
