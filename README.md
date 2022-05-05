@@ -27,7 +27,7 @@ Run http-server at port 8080: (for different port run with flag --p XXXX)
 ```
 http-server 
 ```
-open your preffered browser and paste this addres: 
+Open your preffered browser and paste this addres: 
 ```
 https://localhost:8080
 ```
